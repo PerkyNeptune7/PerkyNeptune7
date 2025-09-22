@@ -1,17 +1,16 @@
 Hi, my name is Billy ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
-Full Stack Developer
+Machine Learning Engineer
 --------------------
 
-I am a full stack developer with experience in ReactJS and NodeJS. I am a software engineering student of third year in York University and I am passionate about Data Structures and Algorithms as well :D
+I am a Machine learning engineer with experience in Neural Networks and architectural machine learning problems. I am a 4th year software engineering student at York University and I am passionate about making a change thorugh enormous amounts of data around us :D
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [shitijaggarwal07@gmail.com](mailto:shitijaggarwal07@gmail.com )
-* 🧠  I'm learning Data Structures And Algorithms
-* 🤝  I'm open to collaborating on Interesting Projects!
-* ⚡  I'm also a professional pianist and I love talking about music
-
+* 🧠  I'm learning Machine learning architectures and techniques
+* 🤝  I'm open to collaborate on Interesting Projects!
+* ⚡  I'm also a professional pianist and part of a local band in Toronto
 ### Skills
 
 
